@@ -5,7 +5,7 @@
 # @Email   : han.wang@stu.pku.edu.cn
 # @File    : TANSAT_OCFP_Reader.py
 # @Des     : Scripts for reading and converting data from TANSAT_OCFP products to general GIS formats.
-#            Reference from the documents from GHD_CCI  products.
+#            Reference from the documents from GH_CCI  products.
 #            1.https://catalogue.ceda.ac.uk/uuid/2cc63301f1854239aa61c70e58c61207
 #            2.https://www.iup.uni-bremen.de/carbon_ghg/docs/GHG-CCIplus/PSD/PSDv3_GHG-CCI_final.pdf
 #            Requirements: geopandas, shapely, netCDF4
